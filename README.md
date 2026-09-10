@@ -153,7 +153,6 @@ Franschhoek), including Welcome, Sign Up/Login, Chef's Menu, Dish Dossier,
 and Add New Dish screens.
 
 
-
 # images
 
 <img width="1605" height="891" alt="Screenshot 2026-09-10 141635" src="https://github.com/user-attachments/assets/6571e916-9720-4181-b13f-71fd47de4742" />
